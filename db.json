@@ -127,5 +127,65 @@
         }
       ]
     }
-  ]
+  ],
+
+
+"table":[
+
+{
+  "id":1,
+  "name":"On Boarding Call"
+},
+
+{
+  "id":2,
+  "name":"Google Search"
+},
+{
+  "id":3,
+  "name":"Google Analytical Access"
+},
+{
+  "id":4,
+  "name":"Website Access"
+},
+{
+  "id":5,
+  "name":"Technical Audit"
+},
+{
+  "id":6,
+  "name":"Anchor Tag and symnetical Analysis"
+},
+{
+  "id":7,
+  "name":"Competative Analysis"
+},
+{
+  "id":8,
+  "name":"Premium Plus release"
+},
+{
+  "id":9,
+  "name":"Review Management"
+},
+{
+  "id":10,
+  "name":"Index Links"
+
+},
+{
+  "id":11,
+  "name":"Video Camp"
+
+}
+
+
+
+]
+
+
+
+
+
 }
